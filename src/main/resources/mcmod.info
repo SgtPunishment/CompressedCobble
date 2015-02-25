@@ -1,0 +1,21 @@
+[
+    {
+        "modid": "CompressedCobble",
+        "name": "Compressed Cobblestone",
+        "description": "A Simple Mod to add Compressed Cobblestone",
+        "version": "1.0.0",
+        "mcversion": "1.7.10",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "TheSgtPunishment"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [
+            "MinecraftForge"
+        ],
+        "useDependencyInformation": "true"
+    }
+]
